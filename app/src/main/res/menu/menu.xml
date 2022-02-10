@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+<item android:id="@+id/actividad1_parte_1"
+android:title="actividad1_parte_1"/>
+
+    <item android:id="@+id/actividad1_parte_2"
+        android:title="actividad1_parte_2"/>
+
+    <item android:id="@+id/actividad2_parte_1"
+        android:title="actividad2_parte_1"/>
+
+    <item android:id="@+id/actividad2_parte_2"
+        android:title="actividad2_parte_2"/>
+</menu>
